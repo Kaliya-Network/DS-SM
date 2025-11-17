@@ -1,4 +1,4 @@
-# 🧪 Data Science & Machine Learning Laboratory  
+# 🧪 Data Science & Statistic Modelling Laboratory  
 ### **Complete Collection of 10 Experiments (DS & ML Lab)**  
 This repository contains all **10 experiments** performed as part of the **Data Science & Machine Learning Laboratory** course.  
 Each experiment includes:  
