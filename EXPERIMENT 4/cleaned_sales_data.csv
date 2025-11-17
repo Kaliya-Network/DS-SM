@@ -1,0 +1,21 @@
+ORDERNUMBER,ORDERDATE,CUSTOMERNAME,SALES,STATUS,PRODUCTLINE
+2/24/2003,,$3,993.95,Shipped,Motorcycles
+5/7/2003,,$1,258.57,Shipped,Trains
+7/1/2003,,$7,225.75,Shipped,Planes
+8/25/2003,,$8,148.0,Shipped,Ships
+10/10/2003,,$6,725.0,Shipped,Classic Cars
+11/17/2003,,$5,122.0,Cancelled,Motorcycles
+2/3/2004,,$3,650.0,On Hold,Classic Cars
+3/10/2004,,$7,230.0,Resolved,Trucks and Buses
+5/18/2004,,$4,520.0,Shipped,Trains
+6/24/2004,,$1,200.0,Shipped,Classic Cars
+7/30/2004,,$8,470.0,Cancelled,Ships
+8/28/2004,,$5,310.0,Shipped,Motorcycles
+10/10/2004,,$9,250.0,Shipped,Classic Cars
+11/17/2004,,$2,980.0,On Hold,Planes
+1/6/2005,,$4,870.0,Shipped,Ships
+2/12/2005,,$3,440.0,Shipped,Trucks and Buses
+3/28/2005,,$6,900.0,Shipped,Motorcycles
+5/6/2005,,$2,800.0,Shipped,Classic Cars
+6/12/2005,,$9,120.0,Cancelled,Planes
+7/20/2005,,$5,700.0,Shipped,Ships

@@ -1,0 +1,21 @@
+ORDERNUMBER,ORDERDATE,CUSTOMERNAME,SALES,STATUS,PRODUCTLINE
+10107,2/24/2003,Atelier graphique,$3,993.95,Shipped,Motorcycles
+10121,5/7/2003,Signal Gift Stores,$1,258.57,Shipped,Trains
+10134,7/1/2003,"Australian Collectors, Co.",$7,225.75,Shipped,Planes
+10145,8/25/2003,La Rochelle Gifts,$8,148.00,Shipped,Ships
+10159,10/10/2003,Marseille Mini Autos,$6,725.00,Shipped,Classic Cars
+10168,11/17/2003,Mini Gifts Distributors Ltd.,$5,122.00,Cancelled,Motorcycles
+10180,2/3/2004,Auto Canal Petit,$3,650.00,On Hold,Classic Cars
+10188,3/10/2004,Vitachrome Inc.,$7,230.00,Resolved,Trucks and Buses
+10201,5/18/2004,Toys4GrownUps.com,$4,520.00,Shipped,Trains
+10212,6/24/2004,Diecast Collectables,$1,200.00,Shipped,Classic Cars
+10221,7/30/2004,Land of Toys Inc.,$8,470.00,Cancelled,Ships
+10232,8/28/2004,Online Mini Collectables,$5,310.00,Shipped,Motorcycles
+10245,10/10/2004,Marseille Mini Autos,$9,250.00,Shipped,Classic Cars
+10256,11/17/2004,Mini Wheels Co.,$2,980.00,On Hold,Planes
+10265,1/6/2005,FunGiftIdeas.com,$4,870.00,Shipped,Ships
+10275,2/12/2005,Euro+ Shopping Channel,$3,440.00,Shipped,Trucks and Buses
+10288,3/28/2005,Corporate Gift Ideas Co.,$6,900.00,Shipped,Motorcycles
+10297,5/6/2005,Extreme Desk Decorations,$2,800.00,Shipped,Classic Cars
+10306,6/12/2005,Technics Stores Inc.,$9,120.00,Cancelled,Planes
+10315,7/20/2005,Motor Mint Distributors Inc.,$5,700.00,Shipped,Ships
