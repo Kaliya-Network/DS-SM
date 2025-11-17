@@ -91,9 +91,9 @@ These experiments prepare students for practical machine learning & industry-lev
 
 ## 📥 **How to Use This Repository**
 1. Clone the repository  
-   ```bash
+```bash
    git clone https://github.com/Kaliya-Network/DS-SM.git
-````
+```
 
 2. Open any experiment folder
 3. Run the `.ipynb` or `.py` file
